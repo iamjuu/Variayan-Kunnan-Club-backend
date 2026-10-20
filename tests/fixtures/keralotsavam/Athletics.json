@@ -1,0 +1,13 @@
+{
+  "status": true,
+  "message": "TEST FIXTURE – not real Keralotsavam data",
+  "data": [
+    { "id": 9001, "event_name": "TEST 100m Sprint", "category_id": 3, "sub_category_id": 31, "is_group_event": 0, "min_allowed_participants": 1, "max_allowed_participants": 1, "gender": "Male", "sub_gender": "Junior", "is_active": 1, "event_levels": ["Panchayat", "Block", "District"], "event_starts_from": "2026-11-01", "event_ends_at": "2026-11-05" },
+    { "id": 9002, "event_name": "TEST 100m Sprint", "category_id": 3, "sub_category_id": 31, "is_group_event": 0, "min_allowed_participants": 1, "max_allowed_participants": 1, "gender": "Female", "sub_gender": "Junior", "is_active": 1, "event_levels": ["Panchayat", "Block"] },
+    { "id": 9003, "event_name": "TEST Long Jump", "category_id": 3, "sub_category_id": 31, "is_group_event": 0, "min_allowed_participants": 1, "max_allowed_participants": 1, "gender": "Male", "sub_gender": "Senior", "is_active": 1 },
+    { "id": 9004, "event_name": "TEST Shot Put", "category_id": 3, "sub_category_id": 31, "is_group_event": 0, "gender": "Male", "sub_gender": "Senior", "is_active": 1 },
+    { "id": 9005, "event_name": "TEST 400m Run", "category_id": 3, "sub_category_id": 31, "is_group_event": 0, "gender": "Male", "sub_gender": "Senior", "is_active": 1 },
+    { "id": 9006, "event_name": "TEST 4x100m Relay", "category_id": 3, "sub_category_id": 31, "is_group_event": 0, "gender": "Male", "sub_gender": "Senior", "is_active": 1 },
+    { "id": 9007, "event_name": "TEST Discontinued Hurdles", "category_id": 3, "sub_category_id": 31, "is_group_event": 0, "gender": "Male", "sub_gender": "Senior", "is_active": 0 }
+  ]
+}

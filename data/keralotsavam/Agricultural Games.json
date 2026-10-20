@@ -1,0 +1,100 @@
+{
+  "data": {
+    "category": {
+      "id": 6,
+      "name": "Agricultural Games"
+    },
+    "events": [
+      {
+        "id": 401,
+        "event_name": "Coconut Tree Climbing തെങ്ങ് കയറ്റം",
+        "category_id": 6,
+        "sub_category_id": 61,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Male",
+        "sub_gender": "Open",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 402,
+        "event_name": "Sack Race ചാക്കോട്ടം",
+        "category_id": 6,
+        "sub_category_id": 61,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Both",
+        "sub_gender": "Open",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 403,
+        "event_name": "Tug of War വടംവലി",
+        "category_id": 6,
+        "sub_category_id": 62,
+        "is_group_event": 1,
+        "min_allowed_participants": 8,
+        "max_allowed_participants": 12,
+        "gender": "Male",
+        "sub_gender": "Open",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 404,
+        "event_name": "Tug of War വടംവലി",
+        "category_id": 6,
+        "sub_category_id": 62,
+        "is_group_event": 1,
+        "min_allowed_participants": 8,
+        "max_allowed_participants": 12,
+        "gender": "Female",
+        "sub_gender": "Open",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 405,
+        "event_name": "Traditional Ploughing ഉഴവ്",
+        "category_id": 6,
+        "sub_category_id": 62,
+        "is_group_event": 1,
+        "min_allowed_participants": 2,
+        "max_allowed_participants": 4,
+        "gender": "Male",
+        "sub_gender": "Open",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      }
+    ]
+  }
+}

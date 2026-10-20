@@ -1,0 +1,460 @@
+{
+  "data": {
+    "category": {
+      "id": 5,
+      "name": "Games"
+    },
+    "events": [
+      {
+        "id": 301,
+        "event_name": "Chess ചതുരംഗം",
+        "category_id": 5,
+        "sub_category_id": 51,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Both",
+        "sub_gender": "Junior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 302,
+        "event_name": "Chess ചതുരംഗം",
+        "category_id": 5,
+        "sub_category_id": 51,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Both",
+        "sub_gender": "Senior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 303,
+        "event_name": "Carroms കാരംസ്",
+        "category_id": 5,
+        "sub_category_id": 51,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Both",
+        "sub_gender": "Junior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 304,
+        "event_name": "Carroms കാരംസ്",
+        "category_id": 5,
+        "sub_category_id": 51,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Both",
+        "sub_gender": "Senior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 305,
+        "event_name": "Badminton Singles",
+        "category_id": 5,
+        "sub_category_id": 51,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Male",
+        "sub_gender": "Junior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 306,
+        "event_name": "Badminton Singles",
+        "category_id": 5,
+        "sub_category_id": 51,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Male",
+        "sub_gender": "Senior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 307,
+        "event_name": "Badminton Singles",
+        "category_id": 5,
+        "sub_category_id": 51,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Female",
+        "sub_gender": "Junior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 308,
+        "event_name": "Badminton Singles",
+        "category_id": 5,
+        "sub_category_id": 51,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Female",
+        "sub_gender": "Senior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 309,
+        "event_name": "Table Tennis Singles",
+        "category_id": 5,
+        "sub_category_id": 51,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Male",
+        "sub_gender": "Junior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 310,
+        "event_name": "Table Tennis Singles",
+        "category_id": 5,
+        "sub_category_id": 51,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Male",
+        "sub_gender": "Senior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 311,
+        "event_name": "Table Tennis Singles",
+        "category_id": 5,
+        "sub_category_id": 51,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Female",
+        "sub_gender": "Junior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 312,
+        "event_name": "Table Tennis Singles",
+        "category_id": 5,
+        "sub_category_id": 51,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Female",
+        "sub_gender": "Senior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 313,
+        "event_name": "Football ഫുട്‌ബോൾ",
+        "category_id": 5,
+        "sub_category_id": 52,
+        "is_group_event": 1,
+        "min_allowed_participants": 11,
+        "max_allowed_participants": 16,
+        "gender": "Male",
+        "sub_gender": "Open",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 314,
+        "event_name": "Volleyball വോളിബോൾ",
+        "category_id": 5,
+        "sub_category_id": 52,
+        "is_group_event": 1,
+        "min_allowed_participants": 6,
+        "max_allowed_participants": 10,
+        "gender": "Male",
+        "sub_gender": "Open",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 315,
+        "event_name": "Volleyball വോളിബോൾ",
+        "category_id": 5,
+        "sub_category_id": 52,
+        "is_group_event": 1,
+        "min_allowed_participants": 6,
+        "max_allowed_participants": 10,
+        "gender": "Female",
+        "sub_gender": "Open",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 316,
+        "event_name": "Basketball ബാസ്ക്കറ്റ്ബോൾ",
+        "category_id": 5,
+        "sub_category_id": 52,
+        "is_group_event": 1,
+        "min_allowed_participants": 5,
+        "max_allowed_participants": 10,
+        "gender": "Male",
+        "sub_gender": "Open",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 317,
+        "event_name": "Basketball ബാസ്ക്കറ്റ്ബോൾ",
+        "category_id": 5,
+        "sub_category_id": 52,
+        "is_group_event": 1,
+        "min_allowed_participants": 5,
+        "max_allowed_participants": 10,
+        "gender": "Female",
+        "sub_gender": "Open",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 318,
+        "event_name": "Kabaddi കബഡി",
+        "category_id": 5,
+        "sub_category_id": 52,
+        "is_group_event": 1,
+        "min_allowed_participants": 7,
+        "max_allowed_participants": 12,
+        "gender": "Male",
+        "sub_gender": "Open",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 319,
+        "event_name": "Kabaddi കബഡി",
+        "category_id": 5,
+        "sub_category_id": 52,
+        "is_group_event": 1,
+        "min_allowed_participants": 7,
+        "max_allowed_participants": 12,
+        "gender": "Female",
+        "sub_gender": "Open",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 320,
+        "event_name": "Kho-Kho ഖോ ഖോ",
+        "category_id": 5,
+        "sub_category_id": 52,
+        "is_group_event": 1,
+        "min_allowed_participants": 9,
+        "max_allowed_participants": 12,
+        "gender": "Male",
+        "sub_gender": "Open",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 321,
+        "event_name": "Kho-Kho ഖോ ഖോ",
+        "category_id": 5,
+        "sub_category_id": 52,
+        "is_group_event": 1,
+        "min_allowed_participants": 9,
+        "max_allowed_participants": 12,
+        "gender": "Female",
+        "sub_gender": "Open",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 322,
+        "event_name": "Cricket ക്രിക്കറ്റ്",
+        "category_id": 5,
+        "sub_category_id": 52,
+        "is_group_event": 1,
+        "min_allowed_participants": 11,
+        "max_allowed_participants": 15,
+        "gender": "Male",
+        "sub_gender": "Open",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 323,
+        "event_name": "Throwball ത്രോബോൾ",
+        "category_id": 5,
+        "sub_category_id": 52,
+        "is_group_event": 1,
+        "min_allowed_participants": 7,
+        "max_allowed_participants": 10,
+        "gender": "Female",
+        "sub_gender": "Open",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 324,
+        "event_name": "Badminton Doubles",
+        "category_id": 5,
+        "sub_category_id": 52,
+        "is_group_event": 1,
+        "min_allowed_participants": 2,
+        "max_allowed_participants": 2,
+        "gender": "Male",
+        "sub_gender": "Open",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 325,
+        "event_name": "Badminton Doubles",
+        "category_id": 5,
+        "sub_category_id": 52,
+        "is_group_event": 1,
+        "min_allowed_participants": 2,
+        "max_allowed_participants": 2,
+        "gender": "Female",
+        "sub_gender": "Open",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+[
+  {
+    "id": 11,
+    "category_name": "TEST Dance",
+    "events": [
+      { "id": 9101, "event_name": "TEST Mohiniyattam മോഹിനിയാട്ടം", "is_group_event": false, "min_allowed_participants": 1, "max_allowed_participants": 1, "gender": "Female", "sub_gender": "", "is_active": true },
+      { "id": 9102, "event_name": "TEST Thiruvathira തിരുവാതിര", "is_group_event": true, "min_allowed_participants": 3, "max_allowed_participants": 5, "gender": "Female", "sub_gender": "", "is_active": true }
+    ]
+  },
+  {
+    "id": 12,
+    "category_name": "TEST Literary",
+    "events": [
+      { "id": 9103, "event_name": "TEST Elocution", "is_group_event": false, "gender": "Both", "sub_gender": "", "is_active": true },
+      { "id": 9104, "event_name": "TEST Drama", "is_group_event": true, "min_allowed_participants": 2, "max_allowed_participants": 4, "gender": "Mixed", "is_active": true }
+    ]
+  },
+  { "id": 13, "category_name": "TEST Empty Category", "events": [] }
+]

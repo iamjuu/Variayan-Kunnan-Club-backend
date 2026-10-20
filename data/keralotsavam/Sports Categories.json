@@ -1,0 +1,27 @@
+[
+  {
+    "id": 3,
+    "category_name": "Athletics",
+    "events": []
+  },
+  {
+    "id": 4,
+    "category_name": "Swimming",
+    "events": []
+  },
+  {
+    "id": 5,
+    "category_name": "Games",
+    "events": []
+  },
+  {
+    "id": 6,
+    "category_name": "Agricultural Games",
+    "events": []
+  },
+  {
+    "id": 7,
+    "category_name": "Kalarippayattu",
+    "events": []
+  }
+]

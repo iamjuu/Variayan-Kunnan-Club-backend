@@ -1,0 +1,83 @@
+[
+  {
+    "file": "keralotsavam-gathering.jpg",
+    "title": "Keralotsavam gathering",
+    "caption": "The club together for Keralotsavam.",
+    "album": "keralotsavam",
+    "featured": true,
+    "sortOrder": 0
+  },
+  {
+    "file": "keralotsavam-beach.jpg",
+    "title": "Keralotsavam by the shore",
+    "caption": "A Keralotsavam outing with the club.",
+    "album": "keralotsavam",
+    "featured": true,
+    "sortOrder": 1
+  },
+  {
+    "file": "keralotsavam-squad.jpg",
+    "title": "Keralotsavam squad",
+    "caption": "Club team together for the festival season.",
+    "album": "keralotsavam",
+    "featured": true,
+    "sortOrder": 2
+  },
+  {
+    "file": "keralotsavam-team.jpg",
+    "title": "Keralotsavam team",
+    "caption": "Club teammates on the festival grounds.",
+    "album": "keralotsavam",
+    "featured": true,
+    "sortOrder": 3
+  },
+  {
+    "file": "madrid-night.jpg",
+    "title": "Madrid night",
+    "caption": "Club football on the turf — Madrid kit.",
+    "album": "sports",
+    "featured": true,
+    "sortOrder": 4
+  },
+  {
+    "file": "united-night.jpg",
+    "title": "United night",
+    "caption": "Club football on the turf — United kit.",
+    "album": "sports",
+    "featured": true,
+    "sortOrder": 5
+  },
+  {
+    "file": "paris-night.jpg",
+    "title": "Paris night",
+    "caption": "A night match with the Paris side.",
+    "album": "sports",
+    "featured": true,
+    "sortOrder": 6
+  },
+  {
+    "file": "barca-night.jpg",
+    "title": "Barça night",
+    "caption": "Club football on the turf — Barça kit.",
+    "album": "sports",
+    "featured": true,
+    "sortOrder": 7
+  },
+  {
+    "file": "liverpool-night.jpg",
+    "title": "Liverpool night",
+    "caption": "Club football on the turf — Liverpool kit.",
+    "album": "sports",
+    "featured": true,
+    "sortOrder": 8
+  },
+  {
+    "file": "club-night.jpg",
+    "title": "Keralotsavam night",
+    "caption": "The club together after a night match.",
+    "album": "club",
+    "featured": true,
+    "hero": true,
+    "sortOrder": 0
+  }
+]

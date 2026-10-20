@@ -1,0 +1,1096 @@
+{
+  "status": true,
+  "message": "Athletics competition items",
+  "data": {
+    "category": {
+      "id": 3,
+      "name": "Athletics"
+    },
+    "sub_category": {
+      "id": 31,
+      "name": "Track and Field"
+    },
+    "events": [
+      {
+        "id": 101,
+        "event_name": "100m Sprint",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Male",
+        "sub_gender": "Junior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 102,
+        "event_name": "100m Sprint",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Male",
+        "sub_gender": "Senior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 103,
+        "event_name": "100m Sprint",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Female",
+        "sub_gender": "Junior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 104,
+        "event_name": "100m Sprint",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Female",
+        "sub_gender": "Senior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 105,
+        "event_name": "200m Sprint",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Male",
+        "sub_gender": "Junior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 106,
+        "event_name": "200m Sprint",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Male",
+        "sub_gender": "Senior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 107,
+        "event_name": "200m Sprint",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Female",
+        "sub_gender": "Junior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 108,
+        "event_name": "200m Sprint",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Female",
+        "sub_gender": "Senior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 109,
+        "event_name": "400m Run",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Male",
+        "sub_gender": "Junior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 110,
+        "event_name": "400m Run",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Male",
+        "sub_gender": "Senior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 111,
+        "event_name": "400m Run",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Female",
+        "sub_gender": "Junior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 112,
+        "event_name": "400m Run",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Female",
+        "sub_gender": "Senior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 113,
+        "event_name": "800m Run",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Male",
+        "sub_gender": "Junior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 114,
+        "event_name": "800m Run",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Male",
+        "sub_gender": "Senior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 115,
+        "event_name": "800m Run",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Female",
+        "sub_gender": "Junior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 116,
+        "event_name": "800m Run",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Female",
+        "sub_gender": "Senior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 117,
+        "event_name": "1500m Run",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Male",
+        "sub_gender": "Junior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 118,
+        "event_name": "1500m Run",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Male",
+        "sub_gender": "Senior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 119,
+        "event_name": "1500m Run",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Female",
+        "sub_gender": "Junior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 120,
+        "event_name": "1500m Run",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Female",
+        "sub_gender": "Senior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 121,
+        "event_name": "5000m Run",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Male",
+        "sub_gender": "Junior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 122,
+        "event_name": "5000m Run",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Male",
+        "sub_gender": "Senior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 123,
+        "event_name": "5000m Run",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Female",
+        "sub_gender": "Junior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 124,
+        "event_name": "5000m Run",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Female",
+        "sub_gender": "Senior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 125,
+        "event_name": "Long Jump",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Male",
+        "sub_gender": "Junior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 126,
+        "event_name": "Long Jump",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Male",
+        "sub_gender": "Senior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 127,
+        "event_name": "Long Jump",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Female",
+        "sub_gender": "Junior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 128,
+        "event_name": "Long Jump",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Female",
+        "sub_gender": "Senior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 129,
+        "event_name": "High Jump",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Male",
+        "sub_gender": "Junior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 130,
+        "event_name": "High Jump",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Male",
+        "sub_gender": "Senior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 131,
+        "event_name": "High Jump",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Female",
+        "sub_gender": "Junior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 132,
+        "event_name": "High Jump",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Female",
+        "sub_gender": "Senior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 133,
+        "event_name": "Triple Jump",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Male",
+        "sub_gender": "Junior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 134,
+        "event_name": "Triple Jump",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Male",
+        "sub_gender": "Senior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 135,
+        "event_name": "Triple Jump",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Female",
+        "sub_gender": "Junior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 136,
+        "event_name": "Triple Jump",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Female",
+        "sub_gender": "Senior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 137,
+        "event_name": "Shot Put",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Male",
+        "sub_gender": "Junior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 138,
+        "event_name": "Shot Put",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Male",
+        "sub_gender": "Senior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 139,
+        "event_name": "Shot Put",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Female",
+        "sub_gender": "Junior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 140,
+        "event_name": "Shot Put",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Female",
+        "sub_gender": "Senior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 141,
+        "event_name": "Discus Throw",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Male",
+        "sub_gender": "Junior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 142,
+        "event_name": "Discus Throw",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Male",
+        "sub_gender": "Senior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 143,
+        "event_name": "Discus Throw",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Female",
+        "sub_gender": "Junior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 144,
+        "event_name": "Discus Throw",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Female",
+        "sub_gender": "Senior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 145,
+        "event_name": "Javelin Throw",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Male",
+        "sub_gender": "Junior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 146,
+        "event_name": "Javelin Throw",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Male",
+        "sub_gender": "Senior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 147,
+        "event_name": "Javelin Throw",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Female",
+        "sub_gender": "Junior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 148,
+        "event_name": "Javelin Throw",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Female",
+        "sub_gender": "Senior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 149,
+        "event_name": "110m Hurdles",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Male",
+        "sub_gender": "Junior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 150,
+        "event_name": "110m Hurdles",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Male",
+        "sub_gender": "Senior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 151,
+        "event_name": "100m Hurdles",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Female",
+        "sub_gender": "Junior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 152,
+        "event_name": "100m Hurdles",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Female",
+        "sub_gender": "Senior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 153,
+        "event_name": "4x100m Relay",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Male",
+        "sub_gender": "Junior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 154,
+        "event_name": "4x100m Relay",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Male",
+        "sub_gender": "Senior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 155,
+        "event_name": "4x100m Relay",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Female",
+        "sub_gender": "Junior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 156,
+        "event_name": "4x100m Relay",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Female",
+        "sub_gender": "Senior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 157,
+        "event_name": "4x400m Relay",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Male",
+        "sub_gender": "Junior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 158,
+        "event_name": "4x400m Relay",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Male",
+        "sub_gender": "Senior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 159,
+        "event_name": "4x400m Relay",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Female",
+        "sub_gender": "Junior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 160,
+        "event_name": "4x400m Relay",
+        "category_id": 3,
+        "sub_category_id": 31,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Female",
+        "sub_gender": "Senior",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      }
+    ]
+  }
+}

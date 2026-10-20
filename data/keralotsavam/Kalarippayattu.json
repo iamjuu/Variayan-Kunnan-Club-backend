@@ -1,0 +1,172 @@
+{
+  "data": {
+    "category": {
+      "id": 7,
+      "name": "Kalarippayattu"
+    },
+    "events": [
+      {
+        "id": 501,
+        "event_name": "Meypayattu മെയ്‌പയറ്റ്",
+        "category_id": 7,
+        "sub_category_id": 71,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Male",
+        "sub_gender": "Open",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 502,
+        "event_name": "Meypayattu മെയ്‌പയറ്റ്",
+        "category_id": 7,
+        "sub_category_id": 71,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Female",
+        "sub_gender": "Open",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 503,
+        "event_name": "Otta ഓട്ട",
+        "category_id": 7,
+        "sub_category_id": 71,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Male",
+        "sub_gender": "Open",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 504,
+        "event_name": "Otta ഓട്ട",
+        "category_id": 7,
+        "sub_category_id": 71,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Female",
+        "sub_gender": "Open",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 505,
+        "event_name": "Gadha ഗദ",
+        "category_id": 7,
+        "sub_category_id": 71,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Male",
+        "sub_gender": "Open",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 506,
+        "event_name": "Gadha ഗദ",
+        "category_id": 7,
+        "sub_category_id": 71,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Female",
+        "sub_gender": "Open",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 507,
+        "event_name": "Churika ചുരിക",
+        "category_id": 7,
+        "sub_category_id": 71,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Male",
+        "sub_gender": "Open",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 508,
+        "event_name": "Churika ചുരിക",
+        "category_id": 7,
+        "sub_category_id": 71,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Female",
+        "sub_gender": "Open",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 509,
+        "event_name": "Angathari Demonstration അങ്കത്തറ",
+        "category_id": 7,
+        "sub_category_id": 72,
+        "is_group_event": 1,
+        "min_allowed_participants": 4,
+        "max_allowed_participants": 8,
+        "gender": "Both",
+        "sub_gender": "Open",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,667 @@
+[
+  {
+    "id": 11,
+    "category_name": "Dance",
+    "events": [
+      {
+        "id": 1001,
+        "event_name": "Mohiniyattam മോഹിനിയാട്ടം",
+        "category_id": 2,
+        "sub_category_id": 11,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Female",
+        "sub_gender": "",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 1002,
+        "event_name": "Bharatanatyam ഭരതനാട്യം",
+        "category_id": 2,
+        "sub_category_id": 11,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Female",
+        "sub_gender": "",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 1003,
+        "event_name": "Folk Dance നാടൻ നൃത്തം",
+        "category_id": 2,
+        "sub_category_id": 11,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Both",
+        "sub_gender": "",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 1004,
+        "event_name": "Kathakali കഥകളി",
+        "category_id": 2,
+        "sub_category_id": 11,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Both",
+        "sub_gender": "",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 1005,
+        "event_name": "Ottamthullal ഓട്ടൻതുള്ളൽ",
+        "category_id": 2,
+        "sub_category_id": 11,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Both",
+        "sub_gender": "",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 1006,
+        "event_name": "Thiruvathira തിരുവാതിര",
+        "category_id": 2,
+        "sub_category_id": 11,
+        "is_group_event": 1,
+        "min_allowed_participants": 8,
+        "max_allowed_participants": 12,
+        "gender": "Female",
+        "sub_gender": "",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 1007,
+        "event_name": "Oppana ഓപ്പന",
+        "category_id": 2,
+        "sub_category_id": 11,
+        "is_group_event": 1,
+        "min_allowed_participants": 8,
+        "max_allowed_participants": 12,
+        "gender": "Female",
+        "sub_gender": "",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 1008,
+        "event_name": "Kolkali കോൽക്കളി",
+        "category_id": 2,
+        "sub_category_id": 11,
+        "is_group_event": 1,
+        "min_allowed_participants": 8,
+        "max_allowed_participants": 16,
+        "gender": "Male",
+        "sub_gender": "",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 1009,
+        "event_name": "Margamkali മാർഗംകളി",
+        "category_id": 2,
+        "sub_category_id": 11,
+        "is_group_event": 1,
+        "min_allowed_participants": 8,
+        "max_allowed_participants": 12,
+        "gender": "Female",
+        "sub_gender": "",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 1010,
+        "event_name": "Group Folk Dance സംഘ നാടൻ നൃത്തം",
+        "category_id": 2,
+        "sub_category_id": 11,
+        "is_group_event": 1,
+        "min_allowed_participants": 6,
+        "max_allowed_participants": 12,
+        "gender": "Both",
+        "sub_gender": "",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "category_name": "Music",
+    "events": [
+      {
+        "id": 1011,
+        "event_name": "Light Music ലളിതഗാനം",
+        "category_id": 2,
+        "sub_category_id": 12,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Male",
+        "sub_gender": "",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 1012,
+        "event_name": "Light Music ലളിതഗാനം",
+        "category_id": 2,
+        "sub_category_id": 12,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Female",
+        "sub_gender": "",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 1013,
+        "event_name": "Classical Vocal കർണാടക സംഗീതം",
+        "category_id": 2,
+        "sub_category_id": 12,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Both",
+        "sub_gender": "",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 1014,
+        "event_name": "Mappilappattu മാപ്പിളപ്പാട്ട്",
+        "category_id": 2,
+        "sub_category_id": 12,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Both",
+        "sub_gender": "",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 1015,
+        "event_name": "Violin വയലിൻ",
+        "category_id": 2,
+        "sub_category_id": 12,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Both",
+        "sub_gender": "",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 1016,
+        "event_name": "Flute വേണു",
+        "category_id": 2,
+        "sub_category_id": 12,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Both",
+        "sub_gender": "",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 1017,
+        "event_name": "Tabala തബല",
+        "category_id": 2,
+        "sub_category_id": 12,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Both",
+        "sub_gender": "",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 1018,
+        "event_name": "Chenda ചെണ്ട",
+        "category_id": 2,
+        "sub_category_id": 12,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Both",
+        "sub_gender": "",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 1019,
+        "event_name": "Group Song സംഘഗാനം",
+        "category_id": 2,
+        "sub_category_id": 12,
+        "is_group_event": 1,
+        "min_allowed_participants": 4,
+        "max_allowed_participants": 10,
+        "gender": "Both",
+        "sub_gender": "",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "category_name": "Literary",
+    "events": [
+      {
+        "id": 1020,
+        "event_name": "Elocution Malayalam പ്രസംഗം (മലയാളം)",
+        "category_id": 2,
+        "sub_category_id": 13,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Both",
+        "sub_gender": "",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 1021,
+        "event_name": "Elocution English പ്രസംഗം (ഇംഗ്ലീഷ്)",
+        "category_id": 2,
+        "sub_category_id": 13,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Both",
+        "sub_gender": "",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 1022,
+        "event_name": "Essay Writing ഉപന്യാസം",
+        "category_id": 2,
+        "sub_category_id": 13,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Both",
+        "sub_gender": "",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 1023,
+        "event_name": "Poetry Recitation കവിതാപാരായണം",
+        "category_id": 2,
+        "sub_category_id": 13,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Both",
+        "sub_gender": "",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 1024,
+        "event_name": "Aksharaslokam അക്ഷരശ്ലോകം",
+        "category_id": 2,
+        "sub_category_id": 13,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Both",
+        "sub_gender": "",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 1025,
+        "event_name": "Quiz ക്വിസ്",
+        "category_id": 2,
+        "sub_category_id": 13,
+        "is_group_event": 1,
+        "min_allowed_participants": 2,
+        "max_allowed_participants": 3,
+        "gender": "Both",
+        "sub_gender": "",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "category_name": "Theatre",
+    "events": [
+      {
+        "id": 1026,
+        "event_name": "Monoact മോണോ ആക്ട്",
+        "category_id": 2,
+        "sub_category_id": 14,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Both",
+        "sub_gender": "",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 1027,
+        "event_name": "Mimicry അനുകരണം",
+        "category_id": 2,
+        "sub_category_id": 14,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Both",
+        "sub_gender": "",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 1028,
+        "event_name": "Mime മൂകാഭിനയം",
+        "category_id": 2,
+        "sub_category_id": 14,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Both",
+        "sub_gender": "",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 1029,
+        "event_name": "One Act Play ഏകാങ്കം",
+        "category_id": 2,
+        "sub_category_id": 14,
+        "is_group_event": 1,
+        "min_allowed_participants": 4,
+        "max_allowed_participants": 10,
+        "gender": "Both",
+        "sub_gender": "",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 1030,
+        "event_name": "Skit സ്കിറ്റ്",
+        "category_id": 2,
+        "sub_category_id": 14,
+        "is_group_event": 1,
+        "min_allowed_participants": 3,
+        "max_allowed_participants": 8,
+        "gender": "Both",
+        "sub_gender": "",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "category_name": "Fine Arts",
+    "events": [
+      {
+        "id": 1031,
+        "event_name": "Pencil Drawing പെൻസിൽ വര",
+        "category_id": 2,
+        "sub_category_id": 15,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Both",
+        "sub_gender": "",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 1032,
+        "event_name": "Painting ചിത്രരചന",
+        "category_id": 2,
+        "sub_category_id": 15,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Both",
+        "sub_gender": "",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 1033,
+        "event_name": "Cartoon കാർട്ടൂൺ",
+        "category_id": 2,
+        "sub_category_id": 15,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Both",
+        "sub_gender": "",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 1034,
+        "event_name": "Collage കൊളാഷ്",
+        "category_id": 2,
+        "sub_category_id": 15,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Both",
+        "sub_gender": "",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      },
+      {
+        "id": 1035,
+        "event_name": "Photography ഫോട്ടോഗ്രഫി",
+        "category_id": 2,
+        "sub_category_id": 15,
+        "is_group_event": 0,
+        "min_allowed_participants": 1,
+        "max_allowed_participants": 1,
+        "gender": "Both",
+        "sub_gender": "",
+        "is_active": 1,
+        "event_levels": [
+          "Club",
+          "Panchayat",
+          "Block",
+          "District"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "category_name": "Western Music",
+    "events": []
+  }
+]

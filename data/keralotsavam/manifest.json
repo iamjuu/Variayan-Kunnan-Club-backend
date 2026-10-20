@@ -1,0 +1,11 @@
+{
+  "files": {
+    "Arts Categories.json": "arts",
+    "Sports Categories.json": "sports",
+    "Athletics.json": "sports",
+    "Swimming.json": "sports",
+    "Games.json": "sports",
+    "Agricultural Games.json": "sports",
+    "Kalarippayattu.json": "sports"
+  }
+}

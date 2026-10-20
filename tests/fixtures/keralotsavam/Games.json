@@ -1,0 +1,9 @@
+{
+  "data": {
+    "category": { "id": 4, "name": "TEST Games" },
+    "events": [
+      { "id": 9201, "event_name": "TEST Football", "is_group_event": "1", "min_allowed_participants": "2", "max_allowed_participants": "4", "gender": "Male", "sub_gender": "Open", "is_active": "1" },
+      { "id": 9001, "event_name": "TEST 100m Sprint", "is_group_event": 0, "gender": "Male", "sub_gender": "Junior", "is_active": 1 }
+    ]
+  }
+}
